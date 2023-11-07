@@ -1,0 +1,4 @@
+type,package,k,i,j,value,desc
+Warning,UPW,0,24,76,0.004309,specific yield values below checker threshold of 0.01
+Warning,UPW,1,24,76,0.004309,specific yield values below checker threshold of 0.01
+Warning,OC,0,0,0,0.000000,action(s) defined in OC stress_period_data ignored as they are not part the stress periods defined by DIS

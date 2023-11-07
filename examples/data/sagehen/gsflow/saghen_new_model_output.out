@@ -1,0 +1,101 @@
+
+               Precipitation-Runoff Modeling System (PRMS)
+                       Version 5.3.0 03/01/2022
+
+        Process            Available Modules
+--------------------------------------------------------------------
+  Basin Definition: basin
+    Cascading Flow: cascade
+  Time Series Data: obs, water_use_read, dynamic_param_read
+   Potet Solar Rad: soltab
+  Temperature Dist: temp_1sta, temp_laps, temp_dist2, climate_hru,
+                    temp_map
+       Precip Dist: precip_1sta, precip_laps, precip_dist2,
+                    climate_hru, precip_map
+Temp & Precip Dist: xyz_dist, ide_dist
+    Solar Rad Dist: ccsolrad, ddsolrad, climate_hru
+Transpiration Dist: transp_tindex, climate_hru, transp_frost
+      Potential ET: potet_hamon, potet_jh, potet_pan, climate_hru,
+                    potet_hs, potet_pt, potet_pm, potet_pm_sta
+      Interception: intcp
+Snow & Glacr Dynam: snowcomp, glacr_melt
+    Surface Runoff: srunoff_smidx, srunoff_carea
+         Soil Zone: soilzone, soilzone_ag
+       Groundwater: gwflow
+Streamflow Routing: strmflow, strmflow_in_out, muskingum,
+                    muskingum_lake, muskingum_mann
+Stream Temperature: stream_temp
+    Output Summary: basin_sum, subbasin, map_results, prms_summary,
+                    nhru_summary, nsub_summary, water_balance
+                    basin_summary, nsegment_summary, statvar_out
+     Preprocessing: write_climate_hru, frost_date
+--------------------------------------------------------------------
+
+
+    Active modules listed in the order in which they are called
+
+        Process                    Module         Version Date
+==============================================================
+PRMS Computation Order          gsflow_prms         2022-03-01
+Read Control File               read_control_file   2022-02-23
+Read Parameter File             read_parameter_file 2022-01-12
+Read Data File                  read_data_file      2022-01-12
+
+
+====================================================================
+Using PRMS Data File: saghen_new_dat.data
+Title: Sagehen simple Datafile Created By M. Gardner (09/30/17)  Sagehen Creek COOP 634
+====================================================================
+Comment lines:
+====================================================================
+measured variables
+tmax 1
+tmin 1
+precip 1
+runoff 1
+====================================================================
+ Data File time period: 1953/10/01 00:00:00 to 2007/06/30 00:00:00
+Simulation time period: 1982/08/01 00:00:00 to 1997/03/31 00:00:00
+====================================================================
+Basin Definition                basin               2022-02-10
+Cascading Flow                  cascade             2021-11-19
+Common States and Fluxes        climateflow         2022-02-18
+Potential Solar Radiation       soltab              2021-09-07
+Time Series Data                obs                 2022-01-12
+Timestep Control                prms_time           2021-11-19
+Temperature Distribution        temp_1sta           2021-11-19
+Precipitation Distribution      precip_1sta         2022-02-18
+Solar Radiation Distribution    ddsolrad            2021-11-19
+Transpiration Distribution      transp_tindex       2021-09-07
+Potential Evapotranspiration    potet_jh            2021-11-19
+Canopy Interception             intcp               2022-02-03
+Snow Dynamics                   snowcomp            2022-02-18
+Surface Runoff                  srunoff_smidx       2022-02-10
+Soilzone Computations           soilzone            2022-02-04
+GSFLOW PRMS to MODFLOW          gsflow_prms2mf      2021-12-09
+GSFLOW MODFLOW to PRMS          gsflow_mf2prms      2022-02-18
+GSFLOW Output Budget Summary    gsflow_budget       2022-02-18
+GSFLOW Output CSV Summary       gsflow_sum          2022-02-10
+Output Summary                  map_results         2021-11-19
+Output Summary                  subbasin            2022-01-25
+Statistics Variables Output     statvar_out         2021-09-08
+==============================================================
+GSFLOW MODFLOW main             gsflow_modflow      2022-01-12
+UZF-NWT Package                 gwf2uzf1_NWT        2021-03-02
+SFR-NWT Package                 gwf2sfr7_NWT        2022-02-01
+
+Using Control File: /home/carlos/Documents/pygsflow/examples/data/sagehen/gsflow/saghen_new_cont.control
+
+Using Parameter File: saghen_new_par_0.params
+
+
+Start time: 1982/08/01 00:00:00
+End time:   1997/03/31 00:00:00
+
+
+Model domain area:        12946.05    Active basin area:      6805.28
+Fraction impervious:        0.0011    Fraction pervious:       0.9989
+
+
+Execution elapsed time    9 minutes 41.64 seconds
+

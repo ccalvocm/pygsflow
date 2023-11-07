@@ -1,0 +1,18 @@
+                                  MODFLOW-NWT-SWR1 
+      U.S. GEOLOGICAL SURVEY MODULAR FINITE-DIFFERENCE GROUNDWATER-FLOW MODEL
+                            VERSION 1.2.0 03/01/2020
+                    BASED ON MODFLOW-2005 VERSION 1.12.00 02/03/2017
+
+ LIST FILE: sagehen_50m.list
+                         UNIT    2
+
+ OPENING sagehen_50m.dis
+ FILE TYPE:DIS   UNIT   11   STATUS:OLD    
+ FORMAT:FORMATTED              ACCESS:SEQUENTIAL          
+
+ *** ERROR OPENING FILE "sagehen_50m.dis" ON UNIT    11
+       SPECIFIED FILE STATUS: OLD    
+       SPECIFIED FILE FORMAT: FORMATTED           
+       SPECIFIED FILE ACCESS: SEQUENTIAL          
+       SPECIFIED FILE ACTION: READ                
+  -- STOP EXECUTION (SGWF2BAS7OPEN)
