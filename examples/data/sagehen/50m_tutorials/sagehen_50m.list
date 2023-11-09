@@ -869,7 +869,28 @@
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    5   TIME STEP    2
 
+    ------------------------------------------------
+       NWT REQUIRED            3 OUTER ITERATIONS 
+       AND A TOTAL OF          3 INNER ITERATIONS.
+    ------------------------------------------------
 
- Run end date and time (yyyy/mm/dd hh:mm:ss): 2023/11/09 16:45:06
- Elapsed run time: 1.291 Seconds
+ NO OUTPUT CONTROL FOR STRESS PERIOD    5   TIME STEP    3
+
+    ------------------------------------------------
+       NWT REQUIRED            3 OUTER ITERATIONS 
+       AND A TOTAL OF          3 INNER ITERATIONS.
+    ------------------------------------------------
+
+ NO OUTPUT CONTROL FOR STRESS PERIOD    5   TIME STEP    4
+
+    ------------------------------------------------
+       NWT REQUIRED            3 OUTER ITERATIONS 
+       AND A TOTAL OF          3 INNER ITERATIONS.
+    ------------------------------------------------
+
+ NO OUTPUT CONTROL FOR STRESS PERIOD    5   TIME STEP    5
+
+
+ Run end date and time (yyyy/mm/dd hh:mm:ss): 2023/11/09 17:52:45
+ Elapsed run time: 1.462 Seconds
 

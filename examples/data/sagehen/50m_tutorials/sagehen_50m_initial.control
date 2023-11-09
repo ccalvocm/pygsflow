@@ -28,7 +28,7 @@ GSFLOW model
 executable_model
 1
 4
-PRMS5
+GSFLOW5
 ####
 gsflow_output_file
 1
@@ -129,7 +129,7 @@ end_time
 1
 2010
 1
-2
+5
 0
 0
 0
