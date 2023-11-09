@@ -9,4 +9,23 @@ period 1 step 1
   print budget
   save head
   save budget
-
+period 1 step 2 
+  print head
+  print budget
+  save head
+  save budget
+ period 1 step 3 
+  print head
+  print budget
+  save head
+  save budget
+period 1 step 4
+  print head
+  print budget
+  save head
+  save budget
+period 1 step 5
+  print head
+  print budget
+  save head
+  save budget
