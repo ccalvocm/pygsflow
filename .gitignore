@@ -1,0 +1,75 @@
+
+examples/data/geospatial/CUERPOSAGUA/Inventario_humedales_publico inventario_plataforma.cpg
+examples/data/geospatial/CUERPOSAGUA/Inventario_humedales_publico inventario_plataforma.dbf
+examples/data/geospatial/CUERPOSAGUA/Inventario_humedales_publico inventario_plataforma.prj
+examples/data/geospatial/CUERPOSAGUA/Inventario_humedales_publico inventario_plataforma.shp
+examples/data/geospatial/CUERPOSAGUA/Inventario_humedales_publico inventario_plataforma.shx
+examples/data/geospatial/DEM/ALOS.tif
+examples/data/geospatial/DEM/ALOS.tif.aux.xml
+examples/data/geospatial/DEM/DEM Alos 5a a 8a mar.j2w
+examples/data/geospatial/DEM/DEM Alos 5a a 8a mar.jp2
+examples/data/geospatial/DEM/DEM Alos 5a a 8a mar.jp2.aux.xml
+examples/data/geospatial/DEM/DEM Alos 5a a 8a mar.prj
+examples/data/geospatial/DEM/DEM Alos 5a a 8a mar_jp2.rlk
+examples/data/geospatial/DEM/RV_ASTER_UTM.tif
+examples/data/geospatial/DEM/RV_ASTER_UTM.tif.aux.xml
+examples/data/geospatial/USOSUELO/categoriaTipoFull.csv
+examples/data/geospatial/USOSUELO/categoriaUsoFull.csv
+examples/data/geospatial/USOSUELO/catTipo.tif
+examples/data/geospatial/USOSUELO/catUso.tif
+examples/data/geospatial/USOSUELO/cut_valparaiso_2020.dbf
+examples/data/geospatial/USOSUELO/cut_valparaiso_2020.prj
+examples/data/geospatial/USOSUELO/cut_valparaiso_2020.shp
+examples/data/geospatial/USOSUELO/cut_valparaiso_2020.shx
+examples/data/HACKATHON/DEM/ALOS.tif
+examples/data/HACKATHON/DEM/DEM Alos 5a a 8a mar.j2w
+examples/data/HACKATHON/DEM/DEM Alos 5a a 8a mar.jp2
+examples/data/HACKATHON/DEM/DEM Alos 5a a 8a mar.jp2.aux.xml
+examples/data/HACKATHON/DEM/DEM Alos 5a a 8a mar.prj
+examples/data/HACKATHON/DEM/DEM Alos 5a a 8a mar_jp2.rlk
+examples/data/HACKATHON/DEM/JUNCAL_UTM_V2.tif
+examples/data/HACKATHON/CUERPOSAGUA/Inventario_humedales_publico inventario_plataforma.shx
+examples/data/HACKATHON/CUERPOSAGUA/Inventario_humedales_publico inventario_plataforma.shp
+examples/data/HACKATHON/CUERPOSAGUA/Inventario_humedales_publico inventario_plataforma.prj
+examples/data/HACKATHON/CUERPOSAGUA/Inventario_humedales_publico inventario_plataforma.dbf
+examples/data/HACKATHON/CUERPOSAGUA/Inventario_humedales_publico inventario_plataforma.cpg
+examples/data/sagehen/gsflow/saghen_new.cbc
+examples/data/sagehen/gsflow/saghen_new.UZF.cbc
+examples/data/geospatial/IPG2022/IPG2022_v2/Documentos/LEEME_IPG2022_v2.pdf
+examples/data/geospatial/IPG2022/IPG2022_v2/Documentos/Metodología IPG2022.pdf
+examples/data/geospatial/IPG2022/IPG2022_v2/IPG2022_v2.CPG
+examples/data/geospatial/IPG2022/IPG2022_v2/IPG2022_v2.dbf
+examples/data/geospatial/IPG2022/IPG2022_v2/IPG2022_v2.prj
+examples/data/geospatial/IPG2022/IPG2022_v2/IPG2022_v2.sbn
+examples/data/geospatial/IPG2022/IPG2022_v2/IPG2022_v2.sbx
+examples/data/geospatial/IPG2022/IPG2022_v2/IPG2022_v2.shp
+examples/data/geospatial/IPG2022/IPG2022_v2/IPG2022_v2.shp.xml
+examples/data/geospatial/IPG2022/IPG2022_v2/IPG2022_v2.shx
+examples/data/HACKATHON/IPG2022/IPG2022_v2/IPG2022_v2.CPG
+examples/data/HACKATHON/IPG2022/IPG2022_v2/IPG2022_v2.dbf
+examples/data/HACKATHON/IPG2022/IPG2022_v2/IPG2022_v2.prj
+examples/data/HACKATHON/IPG2022/IPG2022_v2/IPG2022_v2.sbn
+examples/data/HACKATHON/IPG2022/IPG2022_v2/IPG2022_v2.sbx
+examples/data/HACKATHON/IPG2022/IPG2022_v2/IPG2022_v2.shp
+examples/data/HACKATHON/IPG2022/IPG2022_v2/IPG2022_v2.shp.xml
+examples/data/HACKATHON/IPG2022/IPG2022_v2/IPG2022_v2.shx
+examples/data/geospatial/IPG2022/IPG2022_v2/Documentos/DGA 698 2002 Establece nuevo formato del IPG.pdf
+examples/data/geospatial/IPG2022/IPG2022_v2/Documentos/DGA 1135 2022 Aprueba publicacion y difusion.pdf
+examples/data/HACKATHON/USOSUELO/catTipo.tif
+examples/data/HACKATHON/USOSUELO/catUso.tif
+examples/data/HACKATHON/USOSUELO/cut_valparaiso_2020.dbf
+examples/data/HACKATHON/USOSUELO/cut_valparaiso_2020.prj
+examples/data/HACKATHON/USOSUELO/cut_valparaiso_2020.shp
+examples/data/HACKATHON/USOSUELO/cut_valparaiso_2020.shx
+examples/data/sagehen/50m_tutorials_backup/tmax_50m.txt
+examples/data/sagehen/50m_tutorials_backup/tmin_50m.txt
+examples/data/sagehen/50m_tutorials_backup/ppt_50m.txt
+examples/data/sagehen/50m_tutorials/tmin_day.cbh
+examples/data/sagehen/50m_tutorials/tmin_50m.txt
+examples/data/sagehen/50m_tutorials/tmax_day.cbh
+examples/data/sagehen/50m_tutorials/tmax_50m.txt
+examples/data/sagehen/50m_tutorials/tmin_50m.txt
+examples/data/sagehen/50m_tutorials/tmax_50m.txt
+examples/data/sagehen/50m_tutorials/ppt_day.cbh
+examples/data/sagehen/50m_tutorials/ppt_50m.txt
+examples/data/sagehen/50m_tutorials/ppt_50m.txt
